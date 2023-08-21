@@ -1,5 +1,5 @@
 # The winds are on our side today my friend!⛵️
-#### As the dust settled down, I'm abble to offer you a warm *welcome*.
+#### As the dust settled down, I'm able to offer you a warm *welcome*.
 <br/>
 
 ``
