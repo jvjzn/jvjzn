@@ -7,7 +7,7 @@
 ``
 
 I'm 20 y/o and studying Software Engineering at PUC-MG.
-Besides programming, I'm a videomaker & more: you can find my works clicking [**right here**](https://beacons.ai/jzn).
+Besides programming, I'm a videomaker & more 😂: you can find my works clicking [**right here**](https://beacons.ai/jzn).
 <br><br/>
 - 👨‍💻 I’m currently learning Java, Python, Django and DaVinci.
 - 💻 I’m looking for an internship.
