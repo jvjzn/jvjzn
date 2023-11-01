@@ -1,16 +1,19 @@
 # The winds are on our side today my friend!⛵️
 #### As the dust settled down, I'm able to offer you a warm *welcome*.
-<br/>
-
+<br><br/>
 ``
   Hi there, I'm João, but you can call me "jzn". 👋
 ``
 
 I'm 20 y/o and studying Software Engineering at PUC-MG.
-Besides programming, I'm a videomaker & more 😂: you can find my works clicking [**right here**](https://beacons.ai/jzn).
+Besides programming, I'm a videomaker & more 😂: you can find my works clicking [**right here**](https://beacons.ai/jzn). 
+<br><br/>
+To see what projects I'm onto at the moment, click right [**here**](https://github.com/stars/jvjzn/lists/working-on)
 <br><br/>
 - 👨‍💻 I’m currently learning Java, Python, Django and DaVinci.
 - 💻 I’m looking for an internship.
+
+
 
 ###
 
