@@ -1,6 +1,6 @@
 # The winds are on our side today my friend!⛵️
 #### As the dust settled down, I'm able to offer you a warm *welcome*.
-<br><br/>
+<br/>
 ``
   Hi there, I'm João, but you can call me "jzn". 👋
 ``
